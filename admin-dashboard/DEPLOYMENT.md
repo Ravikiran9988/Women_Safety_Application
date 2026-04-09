@@ -1,6 +1,6 @@
-# 🚀 Women Safety Admin Dashboard - Complete Setup & Deployment Guide
+# Women Safety Admin Dashboard - Complete Setup & Deployment Guide
 
-## 📦 What Has Been Built
+## What Has Been Built
 
 A **production-ready React admin dashboard** with the following components:
 
